@@ -294,7 +294,7 @@ h3.heading
 
 .carousel-inner > .official
 {
- /* height: 55vh; */
+ height: 55vh; 
 }
 
 h3.heading
@@ -329,7 +329,7 @@ h3.heading
 
 .rounded-circle
 {
-  height: 100px;
+  height: 110px;
   width: 150px;
 }
 
