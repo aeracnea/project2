@@ -257,7 +257,7 @@ h3.heading
 
 .carousel-item
 {
-  height: 60vh;
+ /* height: 60vh; */
 }
 .carousel-caption
 {
@@ -329,8 +329,8 @@ h3.heading
 
 .rounded-circle
 {
-  height: 80px;
-  width: 120px;
+  height: 100px;
+  width: 150px;
 }
 
 }
